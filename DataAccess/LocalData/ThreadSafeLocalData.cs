@@ -2,6 +2,8 @@
 using System.Collections;
 using System.Web;
 
+//Taken from: http://nhforge.org/wikis/patternsandpractices/nhibernate-and-the-unit-of-work-pattern.aspx
+
 namespace Toolkit.DataAccess.LocalData
 {
     public interface ILocalData
